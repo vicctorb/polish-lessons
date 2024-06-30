@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <footer>
+        <copyright>Victor Buryak</copyright>
+        <icp>123456789</icp>
+    </footer>
+    <variables></variables>
+    <build-profile instance="pl">
+        <variables>
+            <primary-color>strawberry</primary-color>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+</buildprofiles>
