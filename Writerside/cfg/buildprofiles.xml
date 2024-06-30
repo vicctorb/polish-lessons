@@ -3,7 +3,6 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <footer>
         <copyright>Victor Buryak</copyright>
-        <icp>123456789</icp>
     </footer>
     <variables></variables>
     <build-profile instance="pl">
