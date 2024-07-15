@@ -4,25 +4,25 @@
 
 <instance-profile id="pl"
                  name="Polish Lessons"
-                 start-page="Verbs.md">
+                 start-page="verbs.md">
 
-    <toc-element topic="Verbs.md"/>
-    <toc-element topic="Mestoimenija.md"/>
-    <toc-element topic="Time.md"/>
-    <toc-element topic="Czislitelnyje.md">
+    <toc-element topic="padezy.md">
+        <toc-element topic="roditelnyj.md"/>
+        <toc-element topic="imenitelnyj.md"/>
+        <toc-element topic="datelnij.md"/>
+        <toc-element topic="vinitelnyj.md"/>
+        <toc-element topic="tvoritelnyj.md"/>
+        <toc-element topic="predlozhnyj.md"/>
     </toc-element>
-    <toc-element topic="Past Time.md"/>
-    <toc-element topic="Future Time.md"/>
-    <toc-element topic="Like or love.md"/>
-    <toc-element topic="Padezy.md">
-        <toc-element topic="Roditelnyj.md"/>
-        <toc-element topic="Imenitelnyj.md"/>
-        <toc-element topic="Datelnij.md"/>
-        <toc-element topic="Vinitelnyj.md"/>
-        <toc-element topic="Tvoritelnyj.md"/>
-        <toc-element topic="Predlozhnyj.md"/>
+    <toc-element topic="verbs.md"/>
+    <toc-element topic="mestoimenija.md"/>
+    <toc-element topic="time.md"/>
+    <toc-element topic="czislitelnyje.md">
     </toc-element>
-    <toc-element topic="Where is some thing.md"/>
-    <toc-element topic="Slovar.md"/>
-    <toc-element topic="Gde-Kuda.md"/>
+    <toc-element topic="past_Time.md"/>
+    <toc-element topic="future_time.md"/>
+    <toc-element topic="like_or_love.md"/>
+    <toc-element topic="gde_kuda.md"/>
+    <toc-element topic="where_is_some_thing.md"/>
+    <toc-element topic="slovar.md"/>
 </instance-profile>
