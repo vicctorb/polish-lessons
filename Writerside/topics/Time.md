@@ -6,10 +6,15 @@
 
 ![telegram-cloud-photo-size-2-5341720920357718563-y.jpg](telegram-cloud-photo-size-2-5341720920357718563-y.jpg)
 
-
 ## В какой день недели
 
 ![telegram-cloud-photo-size-2-5361750942724245921-y.jpg](telegram-cloud-photo-size-2-5361750942724245921-y.jpg)
+
+## Когда? Какое число\год?
+
+![telegram-cloud-photo-size-2-5312273091273019810-y.jpg](telegram-cloud-photo-size-2-5312273091273019810-y.jpg)
+
+![telegram-cloud-photo-size-2-5305333592353788520-y.jpg](telegram-cloud-photo-size-2-5305333592353788520-y.jpg)
 
 ## Сколько-то времени назад\вперед
 
@@ -18,7 +23,6 @@
 ## Поры года
 
 ![image_14.png](image_14.png)
-
 
 ## Месяцы
 

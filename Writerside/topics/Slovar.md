@@ -1,4 +1,5 @@
 # Словарь
+
 {type=wide}
 Być
 : быть
@@ -823,7 +824,7 @@ Duszona
 : тушёное
 
 Nabiał
-: молочные продукты  🥛
+: молочные продукты 🥛
 
 Słodycze
 : сладости 🍫
@@ -1578,7 +1579,7 @@ Pasować
 Kraj
 : страна =państwo - государство 🇵🇱🇱🇹🇮🇹🇺🇸
 
-Zabytek 
+Zabytek
 : достопримечательность🗿
 
 Pomnik
@@ -1586,7 +1587,6 @@ Pomnik
 
 Wieża
 : башня🗼
-
 
 Skała
 : скала⛰️
@@ -1629,3 +1629,24 @@ Ziemia
 
 Kamienica
 : старое здание из камня 🏢
+
+Połączenie
+: соединение
+
+Poczekalnia
+: зал ожидания
+
+Przedział
+: купе
+
+Przesiadka
+: пересадка
+
+Bezpośredni
+: прямой
+
+Pociąg osobowy:
+: с большим количеством остановок
+
+Pociąg pospieszny
+: быстрый поезд

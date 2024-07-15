@@ -4,24 +4,25 @@
 
 <instance-profile id="pl"
                  name="Polish Lessons"
-                 start-page="Глаголы.md">
+                 start-page="Verbs.md">
 
-    <toc-element topic="Глаголы.md"/>
-    <toc-element topic="Местоимения.md"/>
-    <toc-element topic="Время.md"/>
-    <toc-element topic="Числительные.md">
+    <toc-element topic="Verbs.md"/>
+    <toc-element topic="Mestoimenija.md"/>
+    <toc-element topic="Time.md"/>
+    <toc-element topic="Czislitelnyje.md">
     </toc-element>
-    <toc-element topic="Прошлшое-время.md"/>
-    <toc-element topic="Будущее-время.md"/>
-    <toc-element topic="Люблю-нравится.md"/>
-    <toc-element topic="Падежи.md">
-        <toc-element topic="Родительный.md"/>
-        <toc-element topic="Именительный.md"/>
-        <toc-element topic="Дательный.md"/>
-        <toc-element topic="Винительный.md"/>
-        <toc-element topic="Творительный.md"/>
-        <toc-element topic="Предложный.md"/>
+    <toc-element topic="Past Time.md"/>
+    <toc-element topic="Future Time.md"/>
+    <toc-element topic="Like or love.md"/>
+    <toc-element topic="Padezy.md">
+        <toc-element topic="Roditelnyj.md"/>
+        <toc-element topic="Imenitelnyj.md"/>
+        <toc-element topic="Datelnij.md"/>
+        <toc-element topic="Vinitelnyj.md"/>
+        <toc-element topic="Tvoritelnyj.md"/>
+        <toc-element topic="Predlozhnyj.md"/>
     </toc-element>
-    <toc-element topic="Где-находится-предмет.md"/>
-    <toc-element topic="Словарь.md"/>
+    <toc-element topic="Where is some thing.md"/>
+    <toc-element topic="Slovar.md"/>
+    <toc-element topic="Gde-Kuda.md"/>
 </instance-profile>
